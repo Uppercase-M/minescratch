@@ -1,5 +1,5 @@
 # Minescratch
-![Static Badge](https://img.shields.io/badge/version%20-%20pre--alpha)
+![Static Badge](https://img.shields.io/badge/version-pre--alpha)
 
 ![MinescratchIcon](https://marin.kawot.fr/assets/minescratch.png)
 ## Overview
