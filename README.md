@@ -6,7 +6,7 @@ Minescratch is an attempt to recreate the famous sandbox game in Turbowarp (Scra
 ## Installation
 Just download the *.sb3* file and run it. It isn't packaged as i want people to be able to play with it and modify as they wish.
 
-## Playabily
+## Playability
 ### Controls :
 - <kbd>Z</kbd> - Move forward
 - <kbd>S</kbd> - Move backward
