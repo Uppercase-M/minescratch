@@ -6,5 +6,18 @@ Minescratch is an attempt to recreate the famous sandbox game in Turbowarp (Scra
 ## Installation
 Just download the *.sb3* file and run it. It isn't packaged as i want people to be able to play with it and modify as they wish.
 
+## Playabily
+### Controls :
+<kbd>Z</kbd> - Move forward
+<kbd>S</kbd> - Move backward
+<kbd>Q</kbd> - Strafe left
+<kbd>D</kbd> - Strafe right
+<kbd>Space</kbd> - Move up
+<kbd>Shift</kbd> - Move down
+<kbd>R</kbd> - Pause menu & settings
+<kbd>Escape</kbd> - Unlock mouse (Unstable)
+
 ## Liscence
 You're free to use, modify, share or use this project for commercial purposes. It's yours !
+
+Minecraft is a property of Mojang Studios and Microsoft.
