@@ -8,6 +8,8 @@ Minescratch is an attempt to recreate the famous sandbox game in Turbowarp (Scra
 
 ## Installation
 Just download the *.sb3* file and run it. It isn't packaged as i want people to be able to play with it and modify as they wish.
+OR
+Run the HTML file directly. Safe. More stable (I think)
 
 ## Playability
 ### Controls :
@@ -15,9 +17,8 @@ Just download the *.sb3* file and run it. It isn't packaged as i want people to 
 - <kbd>S</kbd> - Move backward
 - <kbd>Q</kbd> - Strafe left
 - <kbd>D</kbd> - Strafe right
-- <kbd>Space</kbd> - Move up
-- <kbd>Shift</kbd> - Move down
-- <kbd>R</kbd> - Pause menu & settings
+- <kbd>Space</kbd> - Jump
+- <kbd>U</kbd> - Debug menu (Similar to F3 menu in Minecraft)
 - <kbd>Escape</kbd> - Unlock mouse (Unstable)
 
 ## Liscence
